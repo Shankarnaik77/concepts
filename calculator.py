@@ -1,4 +1,5 @@
 a = 10
-b = 20
-result = a+b
-print(result)
+b = 50
+
+ded = b-a
+print(ded)
